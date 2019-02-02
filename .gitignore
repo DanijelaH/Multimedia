@@ -1,4 +1,25 @@
 
+# Created by 
+https://www.gitignore.io/api/java,linux,macos,windows,netbeans
+# Edit at 
+https://www.gitignore.io/?templates=java,linux,macos,windows,netbeans
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+
 # Created by https://www.gitignore.io/api/java,linux,macos,windows,netbeans
 # Edit at https://www.gitignore.io/?templates=java,linux,macos,windows,netbeans
 
